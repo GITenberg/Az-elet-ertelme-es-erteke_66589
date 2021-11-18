@@ -1,0 +1,38 @@
+_repo: Az-elet-ertelme-es-erteke_66589
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Schöpflin, Aladár
+    alias: Schopflin, Aladar
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '53082'
+    url: http://www.gutenberg.org/2009/agents/53082
+    wikipedia: https://hu.wikipedia.org/wiki/Sch%C3%B6pflin_Alad%C3%A1r
+creator:
+  author:
+    agent_name: Eucken, Rudolf
+    aliases:
+    - Eucken, Rudolph
+    - Eucken, R.‏ (Rudolf)
+    - Eucken, Rudolf Christof
+    birthdate: 1846
+    deathdate: 1926
+    gutenberg_agent_id: '42188'
+    url: http://www.gutenberg.org/2009/agents/42188
+    wikipedia: https://en.wikipedia.org/wiki/Rudolf_Christoph_Eucken
+description: ''
+gutenberg_issued: '2021-10-22'
+identifiers:
+  gutenberg: '66589'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'BD'
+- !lcsh 'Life'
+- GITenberg
+title: Az élet értelme és értéke
+url: http://www.gutenberg.org/ebooks/66589
